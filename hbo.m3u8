@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/cnUJByC.png",HBO AIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
